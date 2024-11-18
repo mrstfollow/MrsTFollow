@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <--
-- 🔭 I’m currently working on building mor eporjects in Cybersecurity.
+- 🔭 I’m currently working on building more projects in Cybersecurity GRC, Cloud Security and Data Management.
 - 🌱 I’m currently learning more about CompTIA Network+ 
 - 👯 I’m looking to collaborate on Cybersecurity Projects.
 - 🤔 I’m looking for mentors and opportunities to become a mentee.
