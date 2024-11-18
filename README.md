@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<--
 - 🔭 I’m currently working on building mor eporjects in Cybersecurity.
 - 🌱 I’m currently learning more about CompTIA Network+ 
 - 👯 I’m looking to collaborate on Cybersecurity Projects.
